@@ -1,4 +1,4 @@
-### Hi there 👋
+### おはようございます
 
 <!--
 **frederickmo/frederickmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ - Tongji University
+ - Software Engineer / Machine Intelligence
+ - Junior
+
+ - 不做码农了，run了。
+ - 跨考交互设计备考中。
