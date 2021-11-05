@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 -->
 
  - Tongji University
- - Software Engineer / Machine Intelligence
+ - Software Engineering / Machine Intelligence
  - Junior
 
- - 不做码农了，run了。
+ - 不做码农了，准备run了。
  - 跨考交互设计备考中。
