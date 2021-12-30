@@ -23,5 +23,4 @@ Here are some ideas to get you started:
  - Software Engineering / Machine Intelligence
  - Junior
 
- - 不做码农了，正在跑路🏃🏻
- - 跨考交互设计备考中
+ - 不知道想做啥，想先考交互设计试试看
