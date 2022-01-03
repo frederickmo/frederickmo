@@ -7,7 +7,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=frederickmo&show_icons=true&theme=swift&hide_title=true" />
 
-<img align="right src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederickmo&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederickmo&layout=compact" />
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederickmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
