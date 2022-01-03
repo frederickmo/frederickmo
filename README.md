@@ -5,11 +5,10 @@
 
 <!-- ![frederickmo's GitHub stats](https://github-readme-stats.vercel.app/api?username=frederickmo&show_icons=true&theme=swift&hide_title=true) -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=frederickmo&show_icons=true&theme=swift&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=frederickmo&show_icons=true&theme=swift" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederickmo&layout=compact" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=frederickmo&layout=compact" /> -->
 
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederickmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 **frederickmo/frederickmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,3 +30,6 @@ Here are some ideas to get you started:
  - Junior
 
  - 不知道想做啥，想先考交互设计试试看
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederickmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
