@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  - Software Engineering / Machine Intelligence
  - Junior
 
- - 不知道想做啥，想先考交互设计试试看
+ - 想转交互设计
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederickmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
