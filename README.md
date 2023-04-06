@@ -25,9 +25,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - Tongji University, Software Engineering, Machine Intelligence, junior
-
- - 除了跑路啥也不会🏃🏻‍♀️
+ - Tongji University, Software Engineering, Machine Intelligence, senior
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=frederickmo&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
